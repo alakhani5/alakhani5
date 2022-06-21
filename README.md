@@ -1,10 +1,10 @@
-Hello! I am Amaan Lakhani.
+## Hello! I am Amaan Lakhani.
 
 I am based in New York. 
 
 I love to deep dive on topics I don’t know much about for the sake of learning.
 
-I love long-distance road and trail running. I have run several marathons and is always up for a run.
+I love long-distance road and trail running. I have run several marathons and am always up for a run.
 
 Let’s connect! I love to chat about development, product, and connect people however I can.
 
